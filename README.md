@@ -8,6 +8,10 @@ This project focuses on performing Exploratory Data Analysis (EDA) on a Student 
 
 The project follows a structured data analytics workflow including data cleaning, data exploration, statistical analysis, hypothesis testing, and data visualization.
 
+Dashboard URL Link
+
+https://studentsperformancedashboard.netlify.app/
+
 ---
 
 ##  Objectives
